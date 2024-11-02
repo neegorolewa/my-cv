@@ -8,7 +8,7 @@ export default function Page()
     <h2> Android-разработчик</h2>
     <h3>+7(917)716-39-36</h3>
     <div>
-      <h2>Навыки</h2>
+      <h2>Мои Навыки</h2>
       <ul>
         <li>Andriod-разработка(Kotlin)</li>
         <li>ООП(C++, C#)</li>
