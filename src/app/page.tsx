@@ -6,7 +6,7 @@ export default function Page()
     <div className={styles.container}>
     <h1>Габдрахманов Евгений</h1>
     <h2> Android-разработчик</h2>
-    <h3>+7(917)716-39-36</h3>
+    <h3>+7(917)716-39-35</h3>
     <div>
       <h2>Навыки</h2>
       <ul>
